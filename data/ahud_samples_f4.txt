@@ -1,0 +1,13 @@
+sample	treatment	generation
+AA_F4_Rep1_	AM	F4
+AA_F4_Rep2_	AM	F4
+AA_F4_Rep3_	AM	F4
+AH_F4_Rep1_	OA	F4
+AH_F4_Rep2_	OA	F4
+AH_F4_Rep3_	OA	F4
+HA_F4_Rep1_	OW	F4
+HA_F4_Rep2_	OW	F4
+HA_F4_Rep3_	OW	F4
+HH_F4_Rep1_	OWA	F4
+HH_F4_Rep2_	OWA	F4
+HH_F4_Rep3_	OWA	F4

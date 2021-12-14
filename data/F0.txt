@@ -1,0 +1,13 @@
+sample	treatment	generation
+AA_F0_Rep1_	AM	F0
+AA_F0_Rep2_	AM	F0
+AA_F0_Rep3_	AM	F0
+AH_F0_Rep1_	OA	F0
+AH_F0_Rep2_	OA	F0
+AH_F0_Rep3_	OA	F0
+HA_F0_Rep1_	OW	F0
+HA_F0_Rep2_	OW	F0
+HA_F0_Rep3_	OW	F0
+HH_F0_Rep1_	OWA	F0
+HH_F0_Rep2_	OWA	F0
+HH_F0_Rep3_	OWA	F0

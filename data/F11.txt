@@ -1,0 +1,7 @@
+sample	treatment	generation
+AA_F11_Rep1	AM	F11
+AA_F11_Rep2	AM	F11
+AA_F11_Rep3	AM	F11
+HH_F11_Rep1	OWA	F11
+HH_F11_Rep2	OWA	F11
+HH_F11_Rep3	OWA	F11

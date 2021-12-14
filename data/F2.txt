@@ -1,0 +1,9 @@
+sample	treatment	generation
+AA_F2_Rep2_	AM	F2
+AA_F2_Rep3_	AM	F2
+AH_F2_Rep1_	OA	F2
+AH_F2_Rep2_	OA	F2
+AH_F2_Rep3_	OA	F2
+HA_F2_Rep1_	OW	F2
+HA_F2_Rep2_	OW	F2
+HA_F2_Rep3_	OW	F2
